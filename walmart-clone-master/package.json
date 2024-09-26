@@ -1,0 +1,30 @@
+{
+  "name": "walmart-clone",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.16.2",
+    "@types/node": "18.19.46",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7",
+    "@types/styled-components": "^5.1.32",
+    "babel-plugin-styled-components": "^2.1.4",
+    "eslint": "8.56.0",
+    "eslint-config-next": "13.5.6",
+    "next": "13.5.6",
+    "next-auth": "^4.24.5",
+    "prisma": "^4.16.2",
+    "prisma-paginate": "^5.2.1",
+    "react": "^18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.12.0",
+    "styled-components": "^5.3.11",
+    "typescript": "4.9.5"
+  }
+}
